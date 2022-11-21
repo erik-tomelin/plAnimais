@@ -1,2 +1,2 @@
 # plAnimais
-Trabalho realizado por Erik Tomelin e Gustavo Malkovisk
+Trabalho realizado por Erik Tomelin e Gustavo Malkovski
